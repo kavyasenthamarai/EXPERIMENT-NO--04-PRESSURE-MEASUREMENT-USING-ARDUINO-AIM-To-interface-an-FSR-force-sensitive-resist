@@ -201,17 +201,12 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 
 ## OUTPUT:
+## BEFORE STIMULATION:
 
+![image](https://github.com/kavyasenthamarai/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118668727/9abaf213-1dce-4b43-aaad-1a5d4b9dce57)
+## AFTER STIMULATION:
 
-
-
-
-
-
-
-
-
-
+![Uploading rib.png…]()
 
 
 ### RESULTS : Arduino uno is interfaced with FSR and output values are indicated on a graph.
